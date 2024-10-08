@@ -4,7 +4,7 @@
 
 ## Reverse Engineering via Shazam! | Rechecked and re-edited by [@toonoeichi](https://github.com/toonoeichi) !
 
-##### Language : **```EN```** | **```TH (Coming Soon!)```**
+##### Language : **```EN```** | [**```TH```**](README_TH.md)
 
 ### After wonder for a long time about the stream for a long time, many day later I just put it through Shazam and got (almost) all the song from the stream, So this repo just spectifically for archiving!
 
