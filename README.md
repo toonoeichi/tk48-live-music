@@ -4,17 +4,14 @@
 
 ## Reverse Engineering via Shazam! | Rechecked and re-edited by [@toonoeichi](https://github.com/toonoeichi) !
 
-**```EN```** | **```TH```**
+##### Language : **```EN```** | **```TH (Coming Soon!)```**
 
 ### After wonder for a long time about the stream for a long time, many day later I just put it through Shazam and got (almost) all the song from the stream, So this repo just spectifically for archiving!
 
-> [!NOTE]
-> - I'm current archived only music that
->   - Not copyrighted (so this repo won't got dmca for that.)
->   - That don't have a name or name start with TK48 (But maybe change in the future!)
+### For right to use, or song list. Referred to [Song List Page](songlist.md)!
 
-### Yep, you read from the note, All non-copyrighted and can be used freely. (But some may required Epicdemic Sound Subscription for. If so, I will make a list on the repo!
+## Enjoy Streaming!
 
-## Archived with 🦑 and ❤️ by Cartoon Kritthapath Yaviraj (ToonOeiChi) and Enjoy Streaming!
+## Archived with 🦑 and ❤️ by Cartoon Kritthapath Yaviraj (ToonOeiChi)
 
 ###### Audio files works best with [Strawberry Media Player](https://github.com/strawberrymusicplayer/strawberry) ! | All credit goes to [[tackle4826] - Tackle Minecraft](https://www.youtube.com/@tackle4826mc) | Also, visit this project! ([Is tackle live?](https://github.com/toonoeichi/is-tackle-live))
